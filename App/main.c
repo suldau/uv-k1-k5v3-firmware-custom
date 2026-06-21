@@ -36,6 +36,8 @@
     #endif
     #ifdef ENABLE_SPECTRUM
         #include "app/spectrum.h"
+// game
+
     #endif
     #include "app/chFrScanner.h"
 #endif
