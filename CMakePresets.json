@@ -47,7 +47,7 @@
                 "ENABLE_REGA": false,
                 "ENABLE_EXTRA_UART_CMD": false,
                 "ENABLE_FEAT_F4HWN": true,
-                "ENABLE_FEAT_F4HWN_GAME": false,
+                "ENABLE_FEAT_F4HWN_GAME": true,
                 "ENABLE_FEAT_F4HWN_SCREENSHOT": false,
                 "ENABLE_FEAT_F4HWN_SPECTRUM": true,
                 "ENABLE_FEAT_F4HWN_RX_TX_TIMER": true,
